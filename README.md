@@ -13,9 +13,8 @@ https://github.com/vortisrd/trew_hud_ui
 
 ## Adding Custom Status - click on the image below.
 
-[![TREW HUD UI STATUS CREATION](https://i.imgur.com/sPt4xbk.png)]
+![TREW HUD UI STATUS CREATION](https://i.imgur.com/sPt4xbk.png)
 
-## Creators
 
 # Donate
 
