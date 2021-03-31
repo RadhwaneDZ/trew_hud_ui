@@ -11,7 +11,7 @@ https://github.com/vortisrd/trew_hud_ui
 -   [esx_addonaccount](https://github.com/ESX-Org/esx_addonaccount)
 
 
-## Adding Custom Status - click on the image below.
+## Image of Trew HUD UI
 
 ![TREW HUD UI STATUS CREATION](https://i.imgur.com/sPt4xbk.png)
 
