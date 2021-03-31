@@ -14,10 +14,3 @@ https://github.com/vortisrd/trew_hud_ui
 ## Image of Trew HUD UI
 
 ![TREW HUD UI STATUS CREATION](https://i.imgur.com/sPt4xbk.png)
-
-
-# Donate
-
-This HUD is the product of 4 months of work, craft and creativity. While now I'm giving it for free, if you want to help, consider donating any ammount you want to. It will be really appreciated. :)
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S735RJA49KSJ8&currency_code=USD&source=url)
