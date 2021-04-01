@@ -1,5 +1,5 @@
 ## Trew HUD UI
-Trew hud ui modified and optimised, Consumes 0.01-0.02 on client and 0.00 on server.
+Trew hud ui modified and optimi<ed, Consumes 0.01-0.03 on client and 0.00 on server.
 
 #Trew Hud Ui original 
 https://github.com/vortisrd/trew_hud_ui
