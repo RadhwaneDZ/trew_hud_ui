@@ -40,7 +40,6 @@ Citizen.CreateThread(function()
 			local blackMoney
 			local bank
 			local money
-			local tequila_coins
 
 			if ESX.PlayerData.job.label == ESX.PlayerData.job.grade_label then
 			job = ESX.PlayerData.job.grade_label
